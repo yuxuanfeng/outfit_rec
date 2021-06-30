@@ -1,4 +1,4 @@
-# Related Work
+# 1. Related Work
 
 [1] KDD2018, Multi-Pointer Co-Attention Networks for Recommendation
 
@@ -49,6 +49,9 @@
 
 [21] IEEE TRANSACTIONS ON MULTIMEDIA, A3-FKG: Attentive Attribute-Aware Fashion Knowledge Graph for Outfit Preference Prediction
 
+
+
+## 2. DATASET
 
 
 
